@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfab46c28269ec4c9b2741c5fc7d2e7, type: 3}
+  m_Name: D1.Trust me!!! 1
+  m_EditorClassIdentifier: 
+  storyText: "you didn't trust bloody baron. And threaten him.\n However you forgot
+    one thing, it is the Bloody baron's area. \nhis troops come in and killed you.\nYou
+    died!!!\n\nWant to play again?\n\n1. Yes\n2. No"
+  nextStates:
+  - {fileID: 11400000, guid: ba7874b286fb1dd4f8805fea310473d0, type: 2}
+  - {fileID: 11400000, guid: 933bfafbf63a6f341834b5c14186c6e4, type: 2}

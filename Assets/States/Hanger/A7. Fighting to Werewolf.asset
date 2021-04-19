@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfab46c28269ec4c9b2741c5fc7d2e7, type: 3}
+  m_Name: A7. Fighting to Werewolf
+  m_EditorClassIdentifier: 
+  storyText: 'You find out the nest and go into the nest. There is werewolf wandering
+    around his nest. You put oil on your silver sword and drink  potion. you are
+    ready to fight!!!
+
+    
+
+    1. continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 145e7f54ec9c2d142b59f72c39f20c37, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfab46c28269ec4c9b2741c5fc7d2e7, type: 3}
+  m_Name: B4.Kidnap child
+  m_EditorClassIdentifier: 
+  storyText: 'You go town near swamp and kidnap child in the midnight. And bring
+    child to Crons. Crons are delightful and tell you where Ciri is.
+
+    
+
+    1.continue...'
+  nextStates:
+  - {fileID: 11400000, guid: daae33a136e106c4f9ebea899abb0205, type: 2}

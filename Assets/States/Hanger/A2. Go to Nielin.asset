@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfab46c28269ec4c9b2741c5fc7d2e7, type: 3}
+  m_Name: A2. Go to Nielin
+  m_EditorClassIdentifier: 
+  storyText: "\rYou meet Nielin and heard that his wife is missing in the west forest
+    which is danger for monster. He ask to find her.\r\n\r\n1. Go to west Forest
+    to find her.\r\n2. We need to prepare. Let's go to shop/"
+  nextStates:
+  - {fileID: 11400000, guid: ba7874b286fb1dd4f8805fea310473d0, type: 2}
+  - {fileID: 11400000, guid: 36fa8dd8b9800cb4a8e22a8d9387a79f, type: 2}

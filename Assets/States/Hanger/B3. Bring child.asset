@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfab46c28269ec4c9b2741c5fc7d2e7, type: 3}
+  m_Name: B3. Bring child
+  m_EditorClassIdentifier: 
+  storyText: 'Crons said that they know where ciri is and if you give them child,
+    they will tell everything.
+
+    
+
+    1. Okay deal
+
+    2. Fuck you!!'
+  nextStates:
+  - {fileID: 11400000, guid: b036c9a8fa26cae4a93951a00640722f, type: 2}
+  - {fileID: 11400000, guid: a6aadb5d216b5bb4caebb8bed4515849, type: 2}

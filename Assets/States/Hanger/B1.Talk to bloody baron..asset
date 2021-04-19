@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfab46c28269ec4c9b2741c5fc7d2e7, type: 3}
+  m_Name: B1.Talk to bloody baron.
+  m_EditorClassIdentifier: 
+  storyText: "\rYou ignore the paper and go to bloody baron to ask where ciri heading
+    to. You meet bloody baron and he says that Ciri was heading to the swamp to kill
+    witches.\r\n\r\n1. Okay I know where to find Ciri\r\n2. How can I trust you?"
+  nextStates:
+  - {fileID: 11400000, guid: 7e1b31b9147fc504f8ff5d36ed6b0fa9, type: 2}
+  - {fileID: 11400000, guid: 6f5859c511e56c846b0e38f70f1ee45b, type: 2}
