@@ -1,0 +1,9 @@
+You, the legendary witcher Geralt of Rivia, look at the notice board. 
+There are bunch papers that about Gwent, fistfighting, and some gassips.
+However, one thing that draw you attention.
+
+You can look at this paper, but you have to find Ciri as soon as possible.
+
+What should I do?
+1. Look at the paper on the notice board
+2. Just leave from notice board and go to find Ciri.
